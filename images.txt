@@ -1,2 +1,2 @@
 #请在以下方药安装的docker映像名称
-cpk1224/docker-2048
+whyour/qinglong 
