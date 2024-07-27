@@ -1,2 +1,3 @@
 #请在以下方药安装的docker映像名称
 outlovecn/portainer-cn 
+fffaraz/fakessh 
