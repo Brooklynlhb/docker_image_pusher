@@ -1,2 +1,2 @@
 #请在以下方药安装的docker映像名称
-alexwhen/docker-2048
+cpk1224/docker-2048
