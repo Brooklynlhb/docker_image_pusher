@@ -1,2 +1,2 @@
 #请在以下方药安装的docker映像名称
-whyour/qinglong 
+wisdomsky/casaos-toolbox
